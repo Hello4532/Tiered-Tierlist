@@ -1169,7 +1169,7 @@ PLACEMENTS.nethop.HT4 = [""];
 PLACEMENTS.nethop.LT4 = [""];
 PLACEMENTS.nethop.HT5 = [""];
 PLACEMENTS.nethop.LT5 = [""];
-PLACEMENTS.sword.LT2 = ["e", "a"];
+PLACEMENTS.sword.LT2 = ["", ""];
 PLAYER_META["", ""] = { region:"NA" };
 
     if (USE_PLACEHOLDERS) {
